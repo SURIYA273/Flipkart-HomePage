@@ -47,7 +47,6 @@ To view the project:
    git clone https://github.com/SURIYA273/Flipkart-HomePage.git
    cd Flipkart-HomePage
 
-Open index.html in your browser.
 
 2. No backend or build tools required — it's a static front-end project.
 
